@@ -1,0 +1,2 @@
+Daemon Thread
+  -Daemon thread in java is a service provider thread that provide services to the user thread.

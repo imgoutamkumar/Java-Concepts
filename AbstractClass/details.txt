@@ -1,0 +1,1 @@
+An abstract class can have a data member, abstract method, method body (non-abstract method), constructor, and even main() method.

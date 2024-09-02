@@ -1,0 +1,12 @@
+Polymorphism is an object oriented programming concept that refers to the ability of a variable, function or object to take on multiple forms.
+There are two types of polymorphism.
+ 1. compile time polymorphism(static polymorphism)
+ 2. run time polymorphism(dynamic polymorphism)
+
+ Method Overloading
+*If two or more methods have the same name but they should have different parameters or signature is known as overloading.
+*Solved during compile time.
+
+ Method Overriding
+ *Child class inherits methods with the same parameter/signature which are presents in the base class is known as overriding.
+ *solved during run time

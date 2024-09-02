@@ -1,0 +1,8 @@
+Abstraction is hiding the internal details and show only the functionality to the user.
+
+How to achieve abstraction in java?
+1. Abstract Class(0-100 %)
+2. Interface (100%)
+
+A method without body is known as abstract method.
+If a class has abstract method, it should be declared abstract as well.

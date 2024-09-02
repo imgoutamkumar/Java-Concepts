@@ -1,0 +1,18 @@
+Lambda is anonymous function
+ -No Name
+ -No Modifier
+ -No Return Type
+
+Benifits of Lambda
+ -Reduce the lines of Code
+ -Sequential and Parallel excution support by passing behaviour as an argument in methods
+ -To call APIs very efficiently
+ -To write more readable maintainable and concise Code
+
+*Java compiler also inter the type of variable passed in arguments, hence type is optional
+
+*If the interface contains only one abstract methods then it is called Functional interface
+EX: Runnable, Callable, Comparable etc
+To call lambda we require functional interface
+Lambda is used to implement functional interface in very simple and short maner.
+  

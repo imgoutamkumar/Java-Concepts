@@ -1,0 +1,3 @@
+Two types of exception
+1. checked exception(handle on compile time)
+2. unchecked exception(handle on run time)
